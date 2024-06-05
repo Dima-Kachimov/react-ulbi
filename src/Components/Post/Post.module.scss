@@ -1,0 +1,14 @@
+.post {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 3px solid #388dd3;
+  padding: 15px;
+  margin: 20px;
+  strong {
+    margin-bottom: 10px;
+    text-transform: uppercase;
+  }
+  p {}
+}
